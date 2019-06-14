@@ -1,3 +1,4 @@
 slackbot_settings.py
 __pycache__
 /plugins/modules/config/
+.vscode
